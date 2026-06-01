@@ -1,0 +1,1 @@
+# smartg4_home_assistant_port
