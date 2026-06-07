@@ -1,0 +1,2 @@
+smartbus_light: >-
+    python3 light_control.py "{{ subnet }}" "{{ device }}" "{{ channel }}" "{{ level }}"
